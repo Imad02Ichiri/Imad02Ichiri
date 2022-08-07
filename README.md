@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ichiri_Imad
+- 👀 I’m interested in progamming 👨‍💻
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web dev projects in order to develope my skills
+- 📫 How to reach me ichiri02imad@gmail.com
